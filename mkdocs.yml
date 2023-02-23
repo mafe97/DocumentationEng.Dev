@@ -1,9 +1,12 @@
 site_name: Documentation project
 
 nav:
-  - Home: "index.md"
-  - "User guide":
-      - Auth: "auth.md"
+  - "Introducción":
+      - Home: "index.md"
+  - "Guía de usuarios":
+      - Descripción: "descripcion.md"
+      - Alcance: "alcance.md"
+      - Objetivos: "objetivos.md"
   - About us: "about.md"
 
 theme: readthedocs

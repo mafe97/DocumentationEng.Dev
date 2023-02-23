@@ -9,5 +9,5 @@ Documentation
 .. toctree::
     :caption: User guide
 
-    auth
+    description
     about

@@ -1,6 +1,6 @@
-# Documentation Project Software
+# Proyecto Ingeniería de Software
 
-Documentation of proof, created course inside of DJango, use the library MKDOCS for publish in **ReadTheDocs**
+La presente documentación está basada en un proyecto de emprendiemiento social y empresarial que permitirá innovar en el entorno económico de las personas que usen la aplicación móvil.
 
 ## Requeriments
 
